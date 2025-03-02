@@ -70,7 +70,9 @@ An interactive AI assistant powered by Gemini to help with LeetCode problems and
 
 6. **Troubleshooting**:
    - If Python script fails: Ensure Chrome and Python are in system PATH
-   - For dependency issues: Try `npm clean-install`
+   - For dependency issues: 
+     - Try `npm clean-install`
+     - If npm install fails, use: `npm install --legacy-peer-deps`
    - For API errors: Verify your Gemini API key is valid
 
 ## Architecture Overview
