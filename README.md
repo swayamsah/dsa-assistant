@@ -24,7 +24,7 @@ An interactive AI assistant powered by Gemini to help with LeetCode problems and
 
 ## Tech Stack
 
-- Next.js 13 (App Router)
+- Next.js 14 (App Router)
 - TypeScript
 - Tailwind CSS
 - Gemini API
