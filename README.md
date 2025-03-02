@@ -93,7 +93,7 @@ graph TD
 ### Key Components:
 
 1. **Frontend Layer**:
-   - Next.js 13 App Router for routing and rendering
+   - Next.js 14 App Router for routing and rendering
    - React components with TypeScript
    - Tailwind CSS for styling
    - ShadcnUI for component library
